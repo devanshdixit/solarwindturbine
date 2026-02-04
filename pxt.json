@@ -10,7 +10,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "gr3-forcewind-use.md"
     ],
     "testFiles": [
         "test.ts"
