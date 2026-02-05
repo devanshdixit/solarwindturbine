@@ -1,24 +1,10 @@
 
-> Open this page at [https://devanshdixit.github.io/solarwindturbine/](https://devanshdixit.github.io/solarwindturbine/)
+```package
+solar-led=github:devanshdixit/solar-led#master
+```
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/devanshdixit/solarwindturbine** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/devanshdixit/solarwindturbine** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## Activity 1: Build Your Project @showdialog
+Let's build a moving wind turbine! We are going to do this in three parts:
+1. **Build** our wind turbine
+2. **Add code** to make it move
+3. **Use** our wind turbine to learn how it works
