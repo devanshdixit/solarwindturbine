@@ -1,5 +1,5 @@
 {
-    "name": "solar+windturbine",
+    "name": "solar-windturbine",
     "description": "",
     "dependencies": {
         "core": "*",
